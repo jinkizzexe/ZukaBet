@@ -13,7 +13,7 @@ Link download : ${res.data.result.url}`
 }
 handler.help = ['apkdl (link apkpure)']
 handler.tags = ['tools']
-handler.command = /^(apkdl)$/i
+handler.command = /^(apk)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
